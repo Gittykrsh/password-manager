@@ -1,6 +1,5 @@
-# Password-Manager
-A Project on Cyber sercurity - The Passwaord Manager
- 🔐 Password Manager – Secure Offline Credential Vault
+# 🔐 Password-Manager
+A Project on Cyber sercurity - The Passwaord Manager – Secure Offline Credential Vault
 
 A secure, offline password manager application built using **Python**, **Tkinter**, **SQLite**, and **AES encryption**. This tool allows users to store, manage, and retrieve credentials with a strong focus on privacy and usability.
 
