@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1w4x0A-WBPufgBeFgvLiH0kOySnAP__D3/view?usp=shari
 
 ## 🖼️ UI Preview
 
-![Password Manager GUI]
+![Password Manager](https://github.com/user-attachments/assets/0b7ac461-5492-4807-96ba-20cf67d461b3)
 
 ---
 
